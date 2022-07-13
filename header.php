@@ -39,7 +39,7 @@
         <div class="hidden ml-10 space-x-8 lg:block">
           <a href="<?php echo home_url('/'); ?>" class="text-base font-medium text-white hover:text-indigo-50"> Home </a>
 
-          <a href="<?php echo home_url('/'); ?>blog/" class="text-base font-medium text-white hover:text-indigo-50"> Article </a>
+          <a href="<?php echo home_url('/'); ?>blog/" class="text-base font-medium text-white hover:text-indigo-50"> Articles </a>
 
           <a href="<?php echo home_url('/'); ?>contact/" class="text-base font-medium text-white hover:text-indigo-50"> Contact Us </a>
 
@@ -47,8 +47,7 @@
         </div>
       </div>
       <div class="ml-10 space-x-4">
-        <a href="#" class="inline-block bg-rose-500 py-2 px-4 border border-transparent rounded-md text-base font-medium text-white hover:bg-opacity-75">Sign in</a>
-        <a href="#" class="inline-block bg-white py-2 px-4 border border-transparent rounded-md text-base font-medium text-rose-600 hover:bg-rose-50">Sign up</a>
+        
       </div>
     </div>
    

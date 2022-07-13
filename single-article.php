@@ -39,12 +39,13 @@
     <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto max-w-7xl">
      <?php echo the_content(); ?>
     </div>
+    <?php
+echo do_shortcode("[wpdiscuz_comments]");
+?>
   </div>
 </div>
 
-<?php
-echo do_shortcode("[wpdiscuz_comments]");
-?>
+
 
 
 
