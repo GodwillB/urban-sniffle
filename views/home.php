@@ -59,8 +59,8 @@ get_header(); ?>
                 <div class="col-span-1 flex justify-start py-2 px-6 bg-gray-50">
           <img class="max-h-12" src="https://tailwindui.com/img/logos/statamic-logo-gray-400.svg" alt="Statamic">
         </div>
-                <h3 class=" py-1 px-6 text-start mt-8 text-lg font-medium tracking-tight text-gray-900">Push to Deploy</h3>
-                <h2 class="py-1 text-base font-semibold uppercase  text-indigo-600">Deploy faster</h2>
+                <h3 class=" py-1 px-6 text-start  text-lg font-medium tracking-tight text-gray-900">Push to Deploy</h3>
+                <h2 class="py-1 px-6 mt-5 text-base text-start font-semibold uppercase  text-indigo-600">Deploy faster</h2>
                 <p class=" py-1 px-6 text-start mt-5 text-base text-gray-500">Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.</p>
               </div>
             </div>
