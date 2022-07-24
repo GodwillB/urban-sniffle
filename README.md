@@ -1,3 +1,5 @@
+This repo is archived
+
 === godwill ===
 
 Contributors: automattic
